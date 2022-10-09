@@ -1,4 +1,4 @@
-qianduanway.com 的评论专用 Repo, 文档：https://github.com/gitalk/gitalk
+[前端位](https://qianduanway.com) 博客站点的评论专用 Repo, 文档：https://github.com/gitalk/gitalk
 
 代码集成：
 ```html

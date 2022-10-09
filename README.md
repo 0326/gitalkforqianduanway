@@ -20,3 +20,5 @@ qianduanway.com 的评论专用 Repo, 文档：https://github.com/gitalk/gitalk
     </script>
 </section>
  ```
+
+对应 OAuth App: https://github.com/settings/applications/2002062
